@@ -1,6 +1,6 @@
 # Autonomous AI Crypto Trading Bot (V4)
 
-An autonomous algorithmic cryptocurrency trading bot built in Python, designed for data-driven strategy execution and risk management on BTC/ETH markets.
+An autonomous algorithmic cryptocurrency trading bot built in Python using Google Gemini, designed for data-driven strategy execution and risk management on BTC/ETH markets.
 
 ## 🚀 Architecture & Core Features
 *   **Modular Logic:** Independent execution scripts for BTC and ETH trading pairs (`bot.py`).
