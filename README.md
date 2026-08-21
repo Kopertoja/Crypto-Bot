@@ -30,10 +30,11 @@ An autonomous algorithmic cryptocurrency trading bot built in Python using Googl
    pip install -r requirements.txt
 4. Configure enviroment variables:
    Create a .env file in root directory and add your credentials:
+   ```bash
    API_KEY=your_binance_api_key
    API_SECRET=your_binance_api_secret
    GROQ_API_KEY=your_groq_api_key
    DISCORD_WEBHOOK_URL=your_discord_webhhok
-5. Run:
+6. Run:
    ```bash
    python3 bot.py
