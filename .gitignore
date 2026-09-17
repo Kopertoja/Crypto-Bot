@@ -1,7 +1,11 @@
+cat << 'EOF' > .gitignore
 .env
-*log*
-*.db
-*.txt
 venv/
 __pycache__/
-.DS_Store
+*.db
+*.csv
+*.json
+*.txt
+*.png
+EOF
+*log.txt*
